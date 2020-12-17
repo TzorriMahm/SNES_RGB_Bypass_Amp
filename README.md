@@ -8,7 +8,7 @@ This modification works with all 1-Chip models (PAL/NTSC).
 **⁓ Designed with ♥ in Germany ⁓**<br><br>
 ![TzorriMahm](https://github.com/TzorriMahm/SNES_RGB_Bypass_Amp/blob/master/img_snes/tzorri_logo.png)
 # Where to get the PCB?
-You can order the PCB directly from [OSHPark](https://oshpark.com/shared_projects/a6TR31Av).
+You can order the PCB directly from [OSHPark](https://oshpark.com/shared_projects/o16zk0W4).
 Of course, feel free to use the gerber files with any manufacturer of your choice.<br>
 Use 0.8mm board thickness to ensure an easy and clean installation.
 
