@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name snes_rgb_bypass_amp)(type Legacy)(uri ${KIPRJMOD}/snes_rgb_bypass_amp.lib)(options "")(descr "Symbols for the 'SNES RGB BYPASS AMP' project by TzorriMahm"))
+)
