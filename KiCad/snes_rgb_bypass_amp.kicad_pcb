@@ -270,7 +270,7 @@
   )
 
   (module snes_rgb_bypass_amp:TM_logo-silk (layer B.Cu) (tedit 5FDA80B1) (tstamp 5FB5DFE5)
-    (at 149.63 109.5969 180)
+    (at 150.14 110.09 180)
     (descr "Made by TzorriMahm")
     (fp_text reference *** (at 0 4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
